@@ -1,0 +1,10 @@
+flask
+streamlit
+requests
+PyPDF2
+fpdf
+openai-whisper
+sounddevice
+scipy
+numpy
+torch  # Required for whisper to work (add specific version if needed)

@@ -1,0 +1,6 @@
+[
+  {"job_role": "Software Engineer", "round_type": "Technical", "question": "Explain OOP principles."},
+  {"job_role": "Software Engineer", "round_type": "System Design", "question": "Design a scalable chat app."},
+  {"job_role": "Software Engineer", "round_type": "HR", "question": "Tell me about yourself."},
+  {"job_role": "Data Scientist", "round_type": "Technical", "question": "What is overfitting in ML?"}
+]
